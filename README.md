@@ -21,6 +21,11 @@ This project is designed for educational use and accompanies a teaching assignme
 
 ---
 
+## 📺 Show-and-Tell Video (Google Drive)
+Click the link below to watch the final demonstration video:
+
+**[Show-and-Tell Video]([https://drive.google.com/file/d/FILE_ID/view?usp=sharing](https://drive.google.com/file/d/1SS9PEcTp3dql3jp1Dxzlwqe0Gm79V367/view?usp=drive_link))**
+
 ## FSM States Explained
 
 ### **1. Idle**
