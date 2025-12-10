@@ -21,7 +21,7 @@ This project is designed for educational use and accompanies a teaching assignme
 
 ---
 
-## 🧠 FSM States Explained
+## FSM States Explained
 
 ### **1. Idle**
 Enemy stays still for a short duration or until it detects the player.
